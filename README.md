@@ -18,7 +18,7 @@ cd ..
 npm run ios
 ```
 
-# Improvements
+### Improvements
 
 - Fetch Users photos seperatly to get all photos ``/users/:username/photos``
 - fix bug with GestureRecognizer in modal
