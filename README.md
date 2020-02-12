@@ -3,9 +3,9 @@
 
 Its simple app for fetching users from unsplash api and show them to user. when user click on user should be able to see the list of users 
 
-![](screen1.png)
-![](screen2.png)
-![](screen3.png)
+![](screen1.png | width=100)
+![](screen2.png | width=100)
+![](screen3.png | width=100)
 
 ## Installation
 
