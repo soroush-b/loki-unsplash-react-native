@@ -17,3 +17,9 @@ pod install
 cd ..
 npm run ios
 ```
+
+# Improvements
+
+- Fetch Users photos seperatly to get all photos ``/users/:username/photos``
+- fix bug with GestureRecognizer in modal
+- show grids better
